@@ -1,0 +1,51 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints"/>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1/>
+ <Memory2/>
+ <Memory3/>
+ <Memory4/>
+ <Project>
+  <ProjectSessionItem path="stm32"/>
+  <ProjectSessionItem path="stm32;stm32"/>
+  <ProjectSessionItem path="stm32;stm32;Core"/>
+  <ProjectSessionItem path="stm32;stm32;Core;Inc"/>
+  <ProjectSessionItem path="stm32;stm32;Core;Src"/>
+  <ProjectSessionItem path="stm32;stm32;Drivers"/>
+  <ProjectSessionItem path="stm32;stm32;Drivers;CMSIS"/>
+  <ProjectSessionItem path="stm32;stm32;Internal Files"/>
+ </Project>
+ <Register1/>
+ <Register2/>
+ <Register3/>
+ <Register4/>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="340" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="Core/Src/main.c" selected="1" top="321" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="19" y="65" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="Core/Inc/main.h" selected="0" top="31" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="stm32.mak" selected="0" top="39" codecName=""/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="stm32" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug External" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
