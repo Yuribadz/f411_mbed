@@ -1,7 +1,6 @@
 
 
 #include "unity.h"
-#include "new.h"
 
 void setUp(void)
 {
